@@ -1,2 +1,2 @@
 # hihalo.github.io
-My Blog
+하이할로의 저장 공간
